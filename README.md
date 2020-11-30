@@ -20,3 +20,5 @@ Drop-off time: The drop-off date and time, in case the trip was completed
 Pick-up point: The point from which the request was made
 Driver id: The unique identification number of the driver
 Status of the request: The final status of the trip, that can be either completed, cancelled by the driver or no cars available
+
+The project is being given by the upgrad.
